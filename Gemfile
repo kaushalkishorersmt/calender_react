@@ -49,3 +49,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Integrating react with rails
 gem 'react-rails'
+# Using haml except erb
+ gem 'haml'
